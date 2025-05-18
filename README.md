@@ -102,9 +102,23 @@ pip install numpy py_trees ikpy
 
 ## 📷 Screenshots
 
-_Add screenshots or GIFs of the robot navigating, detecting, and grasping._
+### 1. Grasping an object
+![Grasping](images/Grasp.png)
 
----
+### 2. Navigation and path planning
+![Occupancy Grid](images/OCCUPANCY_GRID_PATH_PLANNING.png)
+![Navigation View](images/Nav_map.png)
+
+### 3. Reaching and placing object
+![Place at Point B](images/PLACE_AT_POINT_B.png)
+![Go to Place Point B](images/GO_TO_PLACEPOINT_B.png)
+
+### 4. A* Path Planning Example
+![A Star Path](images/A_Star_Algorithm.png)
+
+### 5. TIAGo close-up
+![TIAGo](images/TIAGO.png)
+
 
 ## 🎥 Videos
 
