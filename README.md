@@ -122,7 +122,13 @@ pip install numpy py_trees ikpy
 
 ## 🎥 Videos
 
-_Add video demonstrations showing the full behavior from mapping to manipulation._
+Here are video demonstrations of the robot performing mapping, path planning, and manipulation tasks:
+
+| Demonstration                              | Video Link                                                   |
+|--------------------------------------------|--------------------------------------------------------------|
+| A* Algorithm with Grasping                 | [▶ Watch A* Video](videos/A_Start_Algorithm_Place.mp4)      |
+| Informed RRT* Algorithm with Grasping      | [▶ Watch Informed RRT* Video](videos/Informed_RRT_Star_Algorithm_Place.mp4) |
+| Full Mapping, Navigation & Grasping (SLAM) | [▶ Watch SLAM Demo](videos/Mapping_Navigation_SLAM.mp4)     |
 
 ---
 
