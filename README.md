@@ -123,20 +123,23 @@ pip install numpy py_trees ikpy
 
 ## 🎥 Videos
 
-### 1. 🗺️ Mapping and SLAM with TIAGo
-**Video:** [Mapping_Navigation_SLAM](https://youtu.be/Xu2YBA7Bv6Y)  
+### 1.  Mapping and SLAM with TIAGo  
+**Video:**  
+[![Mapping and SLAM](https://img.youtube.com/vi/Xu2YBA7Bv6Y/0.jpg)](https://youtu.be/Xu2YBA7Bv6Y)  
 This video demonstrates how the TIAGo robot autonomously explores an unknown environment and builds a probabilistic occupancy grid map using Lidar data. The map is dynamically updated in real time while the robot navigates the space.
 
 
 
-### 2. 🌟 Informed RRT* Navigation + Pick & Place
-**Video:** [Informed_RRT_Star_Algorithm_Place](https://youtu.be/iWCM9fOswHo)  
+### 2.  Informed RRT* Navigation + Pick & Place
+**Video:**  
+[![Informed RRT*](https://img.youtube.com/vi/iWCM9fOswHo/0.jpg)](https://youtu.be/iWCM9fOswHo)  
 This video showcases the robot planning an efficient path to a target object using the Informed RRT* algorithm, aligning with the object, and successfully grasping it using IKPy-based arm control.
 
 
 
-### 3. 📍 A* Navigation + Pick & Place
-**Video:** [A_Start_Algorithm_Place](https://youtu.be/_Flx3Dq1nKg)  
+### 3.  A* Navigation + Pick & Place
+**Video:**  
+[![A* Navigation](https://img.youtube.com/vi/_Flx3Dq1nKg/0.jpg)](https://youtu.be/_Flx3Dq1nKg)  
 The robot detects the object using camera recognition, plans a path using the A* algorithm, and then executes precise manipulation steps to pick and place the object at a predefined location.
 
 
@@ -151,8 +154,8 @@ Licensed under the [MIT License](LICENSE). Use and modify freely with attributio
 ## 👤 Author
 
 **Yassine Louchi**  
-GitHub: [Argon719](https://github.com/Argon719)
-Email: yassinelouchi.sf@gmail.com
+- GitHub: [Argon719](https://github.com/Argon719)
+- Email: yassinelouchi.sf@gmail.com
 
 ---
 
